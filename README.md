@@ -52,6 +52,7 @@ Positive / Very Positive → Not Hate ✅
 
 ## 📁 Project Structure
 
+```text
 multilingual-hate-speech-detector/
 │
 ├── data/
@@ -72,8 +73,7 @@ multilingual-hate-speech-detector/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
----
+```
 
 ## 📊 Sample Results
 
