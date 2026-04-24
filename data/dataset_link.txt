@@ -1,0 +1,12 @@
+Dataset Reference:
+
+Multilingual HatEval 2019 Dataset
+
+Description:
+This dataset was designed for hate speech detection tasks and includes multilingual social media text.
+
+Source:
+https://github.com/msang/hateval
+
+Note:
+In this project, a pretrained multilingual transformer model is used for initial hate speech detection testing.

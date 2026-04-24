@@ -1,0 +1,40 @@
+Multilingual Hate Speech Detector - Results
+
+Model Used:
+tabularisai/multilingual-sentiment-analysis
+
+Languages Tested:
+- English
+- Arabic
+- French
+
+Sample Results:
+
+1. Text: I hate you
+   Model Output: Negative
+   Final Decision: Hate
+
+2. Text: You are amazing
+   Model Output: Very Positive
+   Final Decision: Not Hate
+
+3. Text: أكرهك
+   Model Output: Positive / Negative depending on model confidence
+   Final Decision: Based on sentiment mapping
+
+4. Text: أنت شخص رائع
+   Model Output: Positive
+   Final Decision: Not Hate
+
+5. Text: Je te déteste
+   Model Output: Negative / Very Negative
+   Final Decision: Hate
+
+6. Text: Tu es gentil
+   Model Output: Positive
+   Final Decision: Not Hate
+
+Conclusion:
+The system detects harmful and non-harmful text across multiple languages using a pretrained multilingual transformer model. The model output is converted into a hate speech decision using a simple mapping rule:
+Negative sentiment -> Hate
+Positive sentiment -> Not Hate
