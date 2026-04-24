@@ -68,20 +68,10 @@ multilingual-hate-speech-detector/
 │   ├── train.py
 │   └── utils.py
 │
-├── main.py  
-├── requirements.txt  
-├── README.md  
-└── .gitignore  
-
----
-
-## ▶️ How to Run
-
-1. Install requirements:
-pip install -r requirements.txt
-
-2. Run the project:
-python main.py
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ---
 
