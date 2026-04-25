@@ -7,6 +7,16 @@ The system uses a pretrained transformer model to classify the sentiment of text
 
 ---
 
+## 🚀 Features
+
+- Supports multiple languages (English, Arabic, French)
+- Uses Transformer-based model (Hugging Face)
+- Real-time text classification
+- Simple and easy-to-use implementation
+- No need to train separate models for each language
+
+ ---
+  
 ## 🎯 Project Objective
 The main goal of this project is:
 - Detect hate speech across multiple languages
