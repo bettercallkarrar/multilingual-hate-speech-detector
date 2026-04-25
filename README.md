@@ -101,7 +101,8 @@ Final Decision: Hate ❌
 
 ## 📸 Output Screenshot
 
-![Output Screenshot](results/output.png)
+<img width="506" height="530" alt="output" src="https://github.com/user-attachments/assets/74633a2b-30dc-4b5c-898c-c389943f687a" />
+
 
 ---
 
