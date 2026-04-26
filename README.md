@@ -146,7 +146,7 @@ The system can analyze multiple languages and detect harmful content effectively
 ---
 
 ## 🌐 Live Demo
-https://multilingual-hate-speech-detector-...streamlit.app
+https://multilingual-hate-speech-detector-je7j8rskiqynpjnpoidaeu.streamlit.app/
 
 ---
 
