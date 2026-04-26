@@ -145,5 +145,10 @@ The system can analyze multiple languages and detect harmful content effectively
 
 ---
 
+## 🌐 Live Demo
+https://multilingual-hate-speech-detector-...streamlit.app
+
+---
+
 ## 👨‍💻 Author
 Karrar Haider
