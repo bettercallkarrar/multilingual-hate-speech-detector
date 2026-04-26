@@ -22,6 +22,14 @@ EXAMPLES = {
         "Tu es gentil.",
         "Je te déteste.",
     ],
+    "Turkish": [
+    "Sen çok naziksin.",
+    "Senden nefret ediyorum.",
+    ],
+    "Spanish": [
+    "Eres muy amable.",
+    "Te odio.",
+    ],
 }
 
 
@@ -228,7 +236,7 @@ def main():
         st.session_state.input_text = ""
 
     st.subheader("Try an example")
-    example_columns = st.columns(3)
+    example_columns = st.columns(len(EXAMPLES))
     for column, (language, examples) in zip(example_columns, EXAMPLES.items()):
         with column:
             st.caption(language)
